@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice">Hello, thank you for calling. Have a great day!</Say>
+    <Say voice="alice">GFY</Say>
+    <Hangup/>
+</Response>
